@@ -1,0 +1,176 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.back{
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    
+}
+.text{
+    color: rgb(222, 13, 13);  
+    text-align: center;
+    font-size: 48px;
+    font-family:Arial, Helvetica, sans-serif ;
+    padding-top: 200px;
+   
+}
+.para{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+.button{
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    padding: 15px 15px;
+    border-radius: 5px;
+    background-image: linear-gradient(red, orange);
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.text-1{
+    text-align: center;
+    font-size: 40px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+.box{
+    display: flex;
+    margin-left: 23%;
+    
+}
+.tk-box{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    background-color: darkgrey;
+    padding: 25px;
+    margin-left: 2% ;
+    font-size: 25px;
+    border-radius: 5px;
+
+}
+.para-1{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(86, 72, 72);
+    font-size: 17px;
+}
+.tk-box-two{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    background-color: rgb(247, 174, 174);
+    padding: 25px;
+    margin-left: 2% ;
+    font-size: 25px;
+    border-radius: 5px;
+    border: 2px solid red;
+    color: red;
+}
+.limitation-amount{
+    text-align: center;
+    border: none;
+    Width: 50%;
+    border-bottom: 2px solid grey;
+    margin-left: 400px;
+}
+.button-2{
+    margin-left: 47%;
+}
+.icon{
+    display: flex;
+    margin-left: 12%;
+}
+.icon-box{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    width: 40vh;
+    height: 30vh;
+    padding: 25px;
+    font-size: 25px;
+    border-radius: 5px;
+}
+#i{
+    background-image: linear-gradient(white, rgb(127, 175, 221));
+    margin: 20px;
+    
+}
+#dont{
+    background-image: linear-gradient(white, rgb(221, 127, 166));
+    margin: 20px;
+}
+#know{
+    background-image: linear-gradient(white, rgb(205, 214, 102));
+    margin: 20px;
+}
+.needed{
+    margin-left: 25px;
+}
+.icon-para{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(86, 72, 72);
+    font-size: 17px;
+    padding-bottom: 50%;
+}
+.par{
+    font-size: medium;
+}
+#picture{
+    display: flex;
+    height: 200px; 
+    width: 200px;
+    padding-left: 10%;
+}
+.pic{
+    margin-left: 20px;
+    border: 10px solid black;
+}
+.update{
+    text-align: center;
+    font-size: 30px;
+}
+.small-text{
+    text-align: center;
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.sub{
+    background-color: rgb(153, 221, 142);
+    padding: 5% ; 
+    margin: 5% 25%;
+
+}
+.subs{
+    border-radius: 5px;
+    text-decoration: none;
+    background-color: rgb(223, 14, 45);
+    color: white;
+    padding: 10px 20px;
+    margin-left: 1%;
+}
+.em{
+    border: none;
+    border-radius: 5px;
+    width: 250px;
+    height: 40px;
+    background-color: white;
+    color: black;
+   padding-left: 20px;
+   margin-left: 12%;
+}
+.foot{
+    margin-bottom: 0px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 50px;
+}
+#hf{
+    color: rgb(223, 47, 91);
+    font-family: cursive;
+}
+
+
+
+
+
